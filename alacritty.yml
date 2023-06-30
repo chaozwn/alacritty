@@ -20,12 +20,12 @@ window:
     columns: 120
     lines: 35
 
-  padding:
-    x: 10
-    y: 10
+  # padding:
+  #   x: 10
+  #   y: 10
 
   # Spread additional padding evenly around the terminal content.
-  dynamic_padding: false
+  dynamic_padding: true
 
   dynamic_title: true
 
