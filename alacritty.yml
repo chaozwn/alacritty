@@ -31,7 +31,7 @@ window:
   decorations: Buttonless
 
   # Background opacity
-  opacity: 0.90
+  opacity: 0.80
 
   option_as_alt: Both
   startup_mode: Windowed
