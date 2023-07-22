@@ -23,8 +23,7 @@ window:
   # padding:
   #   x: 10
   #   y: 10
-
-  # Spread additional padding evenly around the terminal content.
+# Spread additional padding evenly around the terminal content.
   dynamic_padding: true
 
   dynamic_title: true
